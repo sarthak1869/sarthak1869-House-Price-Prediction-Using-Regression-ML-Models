@@ -20,4 +20,5 @@ The above provided data was taken from kaggle.
 
 # Results
 
-We implemented various Regression models such as Linear Regression,SVR,KNN,Random Forest, Decision Treem and Polynomial Regression and among these
+We implemented various Regression models such as Linear Regression,SVR,KNN,Random Forest, Decision Treem and Polynomial Regression and among these decision tree model provided the best training r2_score of 0.92
+which means it has an accuracy of 92%.
